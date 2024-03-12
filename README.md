@@ -73,12 +73,4 @@ cd student/client
 npm start
 ```
 
-## Contributors
 
-- [Your Name]
-- [Teammate 1 Name]
-- [Teammate 2 Name]
-
----
-
-Feel free to add any additional information or instructions as needed. Good luck with your project!
