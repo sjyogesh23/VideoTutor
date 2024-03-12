@@ -37,7 +37,7 @@ Utilizing advanced transformer models, we aim to convert video content into text
 - NLTK
 - easyOCR
 - Whisper
-- Googletransulator
+- Googletranslator
 
 ## How to Run the Program
 
